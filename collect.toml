@@ -1,0 +1,5 @@
+title = "Config for collect.py"
+
+# unit minute
+interval = 10
+uids = [777964, 11399495]
